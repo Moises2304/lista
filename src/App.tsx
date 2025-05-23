@@ -1,5 +1,8 @@
 export const App = () => {
   return (
-    <div>Ola Mundo</div>
+    <div>
+      <input type="text" />
+      <button>+</button>
+    </div>
   )
 }
